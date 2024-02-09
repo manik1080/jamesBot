@@ -214,4 +214,4 @@ async def image(ctx, *, query):
     await ctx.send(embed=img_embed)
 
 
-client.run('ODk5MjA2MTM2MTY1Njk5NTk0.GRzoxw.-jHWCIRiinHOLlHFoKM9naA-QGwc88KEHTnBWw')
+client.run('<<API KEY>>')
